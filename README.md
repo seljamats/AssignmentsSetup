@@ -2,14 +2,14 @@
 
 #### :open_file_folder: Repository structure:
 -	Assignments – Username
-  -	[Assignment 1](Assignment_1)
-    -	[src](Assignment_1/src)
+  -	[TAP 1](TAP_1)
+    - [main.c](TAP_1/main.c)
     -	bin
-    -	[README.md](Assignment_1/README.md)
-  -	[Assignment 2](Assignment_2)
-    -	[src](Assignment_2/src)
+    -	[README.md](TAP_1/README.md)
+  -	[TAP 2](TAP_2)
+    -	[main.c](TAP_2/main.c)
     -	bin
-    -	[README.md](Assignment_2/README.md)
+    -	[README.md](TAP_2/README.md)
 -	[README.md](README.md)
 -	.gitignore
 -	.gitattributes
